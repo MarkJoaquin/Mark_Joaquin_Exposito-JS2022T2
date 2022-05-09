@@ -68,13 +68,13 @@ article {
 .contenedor {
     display: flex;
 
-    /* Dimension formato papel A4 */
+    /* Formato A4 */
     width: 595px;
     min-height: 842px;
 
     margin: 0 auto;
     background-color: #E0E1E4;
-    outline: rgb(167, 166, 166) solid 5px;
+    outline: rgb(167, 166, 166) solid 7px;
 }
 
 .section1 {
